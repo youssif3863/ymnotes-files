@@ -19,3 +19,4 @@ Browse everything at **https://youssif3863.github.io/ymnotes-files/**
 | Subject | Title | Type | QR |
 |---|---|---|---|
 | Gastroenterology | [Ulcerative Colitis vs Crohn's Disease](files/gastroenterology/uc-vs-crohns.png) | Image | [QR](qr/gastroenterology/uc-vs-crohns-qr.png) |
+| General Surgery | [Hernias and Inguinoscrotal Swellings](files/general-surgery/hernias-swellings.pdf) | PDF | [QR](qr/general-surgery/hernias-swellings-qr.png) |
