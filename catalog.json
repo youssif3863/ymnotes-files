@@ -12,6 +12,17 @@
       "updated": "2026-10-19"
     },
     {
+      "title": "Hernia Study Roadmap",
+      "subject": "General Surgery",
+      "kind": "Image",
+      "path": "files/general-surgery/hernia-study-roadmap.png",
+      "qr": "qr/general-surgery/hernia-study-roadmap-qr.png",
+      "url": "https://youssif3863.github.io/ymnotes-files/files/general-surgery/hernia-study-roadmap.png",
+      "bytes": 3469499,
+      "added": "2026-10-23",
+      "updated": "2026-10-23"
+    },
+    {
       "title": "Hernias and Inguinoscrotal Swellings",
       "subject": "General Surgery",
       "kind": "PDF",
@@ -21,6 +32,17 @@
       "bytes": 6764827,
       "added": "2026-10-22",
       "updated": "2026-10-22"
+    },
+    {
+      "title": "Hernias: Classification Map",
+      "subject": "General Surgery",
+      "kind": "Image",
+      "path": "files/general-surgery/hernia-classification-map.png",
+      "qr": "qr/general-surgery/hernia-classification-map-qr.png",
+      "url": "https://youssif3863.github.io/ymnotes-files/files/general-surgery/hernia-classification-map.png",
+      "bytes": 1685437,
+      "added": "2026-10-23",
+      "updated": "2026-10-23"
     }
   ]
 }
