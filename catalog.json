@@ -43,6 +43,17 @@
       "bytes": 1685437,
       "added": "2026-10-23",
       "updated": "2026-10-23"
+    },
+    {
+      "title": "Intestinal Obstruction: Distinctive Signs",
+      "subject": "General Surgery",
+      "kind": "Image",
+      "path": "files/general-surgery/io-signs.png",
+      "qr": "qr/general-surgery/io-signs-qr.png",
+      "url": "https://youssif3863.github.io/ymnotes-files/files/general-surgery/io-signs.png",
+      "bytes": 2063180,
+      "added": "2026-11-05",
+      "updated": "2026-11-05"
     }
   ]
 }
