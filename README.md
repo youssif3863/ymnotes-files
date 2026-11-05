@@ -22,3 +22,4 @@ Browse everything at **https://youssif3863.github.io/ymnotes-files/**
 | General Surgery | [Hernia Study Roadmap](files/general-surgery/hernia-study-roadmap.png) | Image | [QR](qr/general-surgery/hernia-study-roadmap-qr.png) |
 | General Surgery | [Hernias and Inguinoscrotal Swellings](files/general-surgery/hernias-swellings.pdf) | PDF | [QR](qr/general-surgery/hernias-swellings-qr.png) |
 | General Surgery | [Hernias: Classification Map](files/general-surgery/hernia-classification-map.png) | Image | [QR](qr/general-surgery/hernia-classification-map-qr.png) |
+| General Surgery | [Intestinal Obstruction: Distinctive Signs](files/general-surgery/io-signs.png) | Image | [QR](qr/general-surgery/io-signs-qr.png) |
